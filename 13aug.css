@@ -1,0 +1,93 @@
+a{
+    letter-spacing: 5px;
+    margin: 10px; 
+    text-decoration: none;
+    color: black;
+
+ }
+nav{
+ background-color: rgb(242, 244, 245);
+ width: 97%;
+ padding: 20px;
+ position: fixed;
+ top: 0%;
+}
+#div1{
+     float: right;               
+}
+#div2{
+ position: relative;
+   z-index: -1;
+}
+#div3{
+    position:absolute;
+    left: 550px;
+    top:350px;
+font-size: 30px;
+    color: azure;
+    letter-spacing: 8px;
+
+}
+
+#div3 b{
+    background-color: black;
+    padding: 10px;
+    opacity: 0.75;
+}
+
+
+
+
+
+footer{
+ text-align: center;
+ padding :30px;
+ background-color: black;
+}
+
+input{
+ 
+ width: 100%;
+ padding: 10px;
+}
+.projects1{
+    display:flex;
+}
+.projects1 #summer{ 
+    position: absolute;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.projects1 #brick{
+    position: absolute;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    
+}
+
+.projects1 #renovated{
+    position: absolute;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    
+}
+.projects1 #barn{
+    position: absolute;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    
+} 
+
+.about{
+    display: flex;
+    width: 100%;
+    box-sizing: inherit;
+    margin-right:30px;
+}
+.button{
+    width: 88%;
+}
